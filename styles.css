@@ -1,2 +1,17 @@
+.container{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 80px;
 
+    
+  }
+  .items{
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
 /* Your CSS Code here. */
